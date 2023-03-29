@@ -1,0 +1,2 @@
+# RichPresence
+ Discord RichPresence client
